@@ -12,7 +12,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69df88ce-d618-4198-a9d3-80098638852e" name="Changes" comment="" />
+    <list default="true" id="69df88ce-d618-4198-a9d3-80098638852e" name="Changes" comment="https://github.com/Chirkov11AM/Laba1.git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +43,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="fbe19971-f53c-40bd-adf8-30c53a111c32" />
@@ -98,8 +101,23 @@
       <workItem from="1632329476031" duration="2253000" />
       <workItem from="1632410300753" duration="10000" />
       <workItem from="1632411146191" duration="4384000" />
-      <workItem from="1632415753562" duration="2990000" />
+      <workItem from="1632415753562" duration="4481000" />
     </task>
+    <task id="LOCAL-00001" summary="https://github.com/Chirkov11AM/Laba1.git">
+      <created>1632419024952</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632419024952</updated>
+    </task>
+    <task id="LOCAL-00002" summary="https://github.com/Chirkov11AM/Laba1.git">
+      <created>1632419970357</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632419970357</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,8 +139,10 @@
       <path value="https:/github.com/Chirkov11AM/Labs.git" />
       <path value="$USER_HOME$/Documents/GitHub/Labs" />
       <path value="https:/github.com/Chirkov11AM/Labs/blob/main/Lab1#L1" />
-      <path value="$PROJECT_DIR$" />
       <path value="https:/github.com/Chirkov11AM/Lab1" />
+      <path value="https:/github.com/Chirkov11AM/Laba1.git" />
     </ignored-roots>
+    <MESSAGE value="https://github.com/Chirkov11AM/Laba1.git" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/Chirkov11AM/Laba1.git" />
   </component>
 </project>
