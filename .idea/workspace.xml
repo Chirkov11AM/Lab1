@@ -14,6 +14,9 @@
   <component name="ChangeListManager">
     <list default="true" id="69df88ce-d618-4198-a9d3-80098638852e" name="Changes" comment="https://github.com/Chirkov11AM/Laba1.git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/2.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1.adoc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +82,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -101,7 +99,8 @@
       <workItem from="1632329476031" duration="2253000" />
       <workItem from="1632410300753" duration="10000" />
       <workItem from="1632411146191" duration="4384000" />
-      <workItem from="1632415753562" duration="4481000" />
+      <workItem from="1632415753562" duration="5164000" />
+      <workItem from="1632491402697" duration="2593000" />
     </task>
     <task id="LOCAL-00001" summary="https://github.com/Chirkov11AM/Laba1.git">
       <created>1632419024952</created>
@@ -117,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632419970357</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="https://github.com/Chirkov11AM/Laba1.git">
+      <created>1632420330368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632420330368</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +139,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
